@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\bin\Debug\net5.0\NameReverse.exe
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\bin\Debug\net5.0\NameReverse.deps.json
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\bin\Debug\net5.0\NameReverse.runtimeconfig.json
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\bin\Debug\net5.0\NameReverse.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\bin\Debug\net5.0\NameReverse.dll
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\bin\Debug\net5.0\ref\NameReverse.dll
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\bin\Debug\net5.0\NameReverse.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\obj\Debug\net5.0\NameReverse.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\obj\Debug\net5.0\NameReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\obj\Debug\net5.0\NameReverse.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\obj\Debug\net5.0\NameReverse.AssemblyInfo.cs
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\obj\Debug\net5.0\NameReverse.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\obj\Debug\net5.0\NameReverse.dll
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\obj\Debug\net5.0\ref\NameReverse.dll
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\obj\Debug\net5.0\NameReverse.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\NameReverse\obj\Debug\net5.0\NameReverse.genruntimeconfig.cache

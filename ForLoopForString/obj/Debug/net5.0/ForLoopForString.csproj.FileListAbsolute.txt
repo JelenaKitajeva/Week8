@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\bin\Debug\net5.0\ForLoopForString.exe
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\bin\Debug\net5.0\ForLoopForString.deps.json
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\bin\Debug\net5.0\ForLoopForString.runtimeconfig.json
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\bin\Debug\net5.0\ForLoopForString.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\bin\Debug\net5.0\ForLoopForString.dll
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\bin\Debug\net5.0\ref\ForLoopForString.dll
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\bin\Debug\net5.0\ForLoopForString.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\obj\Debug\net5.0\ForLoopForString.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\obj\Debug\net5.0\ForLoopForString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\obj\Debug\net5.0\ForLoopForString.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\obj\Debug\net5.0\ForLoopForString.AssemblyInfo.cs
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\obj\Debug\net5.0\ForLoopForString.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\obj\Debug\net5.0\ForLoopForString.dll
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\obj\Debug\net5.0\ref\ForLoopForString.dll
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\obj\Debug\net5.0\ForLoopForString.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\ForLoopForString\obj\Debug\net5.0\ForLoopForString.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\bin\Debug\net5.0\StringAndIndexes.exe
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\bin\Debug\net5.0\StringAndIndexes.deps.json
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\bin\Debug\net5.0\StringAndIndexes.runtimeconfig.json
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\bin\Debug\net5.0\StringAndIndexes.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\bin\Debug\net5.0\StringAndIndexes.dll
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\bin\Debug\net5.0\ref\StringAndIndexes.dll
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\bin\Debug\net5.0\StringAndIndexes.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\obj\Debug\net5.0\StringAndIndexes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\obj\Debug\net5.0\StringAndIndexes.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\obj\Debug\net5.0\StringAndIndexes.AssemblyInfo.cs
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\obj\Debug\net5.0\StringAndIndexes.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\obj\Debug\net5.0\StringAndIndexes.dll
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\obj\Debug\net5.0\ref\StringAndIndexes.dll
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\obj\Debug\net5.0\StringAndIndexes.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\StringAndIndexes\obj\Debug\net5.0\StringAndIndexes.genruntimeconfig.cache

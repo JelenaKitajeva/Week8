@@ -1,0 +1,15 @@
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\bin\Debug\net5.0\Panic.exe
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\bin\Debug\net5.0\Panic.deps.json
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\bin\Debug\net5.0\Panic.runtimeconfig.json
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\bin\Debug\net5.0\Panic.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\bin\Debug\net5.0\Panic.dll
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\bin\Debug\net5.0\ref\Panic.dll
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\bin\Debug\net5.0\Panic.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\obj\Debug\net5.0\Panic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\obj\Debug\net5.0\Panic.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\obj\Debug\net5.0\Panic.AssemblyInfo.cs
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\obj\Debug\net5.0\Panic.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\obj\Debug\net5.0\Panic.dll
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\obj\Debug\net5.0\ref\Panic.dll
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\obj\Debug\net5.0\Panic.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\Panic\obj\Debug\net5.0\Panic.genruntimeconfig.cache

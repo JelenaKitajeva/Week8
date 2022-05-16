@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\bin\Debug\net5.0\domLetter.exe
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\bin\Debug\net5.0\domLetter.deps.json
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\bin\Debug\net5.0\domLetter.runtimeconfig.json
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\bin\Debug\net5.0\domLetter.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\bin\Debug\net5.0\domLetter.dll
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\bin\Debug\net5.0\ref\domLetter.dll
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\bin\Debug\net5.0\domLetter.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\obj\Debug\net5.0\domLetter.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\obj\Debug\net5.0\domLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\obj\Debug\net5.0\domLetter.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\obj\Debug\net5.0\domLetter.AssemblyInfo.cs
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\obj\Debug\net5.0\domLetter.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\obj\Debug\net5.0\domLetter.dll
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\obj\Debug\net5.0\ref\domLetter.dll
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\obj\Debug\net5.0\domLetter.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\domLetter\obj\Debug\net5.0\domLetter.genruntimeconfig.cache

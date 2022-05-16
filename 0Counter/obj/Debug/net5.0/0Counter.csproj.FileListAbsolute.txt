@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\obj\Debug\net5.0\0Counter.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\obj\Debug\net5.0\0Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\obj\Debug\net5.0\0Counter.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\obj\Debug\net5.0\0Counter.AssemblyInfo.cs
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\obj\Debug\net5.0\0Counter.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\bin\Debug\net5.0\0Counter.exe
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\bin\Debug\net5.0\0Counter.deps.json
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\bin\Debug\net5.0\0Counter.runtimeconfig.json
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\bin\Debug\net5.0\0Counter.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\bin\Debug\net5.0\0Counter.dll
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\bin\Debug\net5.0\ref\0Counter.dll
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\bin\Debug\net5.0\0Counter.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\obj\Debug\net5.0\0Counter.dll
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\obj\Debug\net5.0\ref\0Counter.dll
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\obj\Debug\net5.0\0Counter.pdb
+C:\Users\lena_\source\repos\StringsAndArrays\0Counter\obj\Debug\net5.0\0Counter.genruntimeconfig.cache
